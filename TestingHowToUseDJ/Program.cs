@@ -12,6 +12,7 @@ internal class Program
     {
         var builder = WebApplication.CreateBuilder();
 
+        
         // Adding services to the collection`s services application
         builder.Services.AddTransient<ITimeService, ShortTimeService>(); // system pass the object of the class 
         builder.Services.AddTransient<ITimeService, LongTimeService>();

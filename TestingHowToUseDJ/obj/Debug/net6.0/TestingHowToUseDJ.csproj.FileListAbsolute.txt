@@ -1,0 +1,14 @@
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\bin\Debug\net6.0\TestingHowToUseDJ.exe
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\bin\Debug\net6.0\TestingHowToUseDJ.deps.json
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\bin\Debug\net6.0\TestingHowToUseDJ.runtimeconfig.json
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\bin\Debug\net6.0\TestingHowToUseDJ.dll
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\bin\Debug\net6.0\TestingHowToUseDJ.pdb
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\obj\Debug\net6.0\TestingHowToUseDJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\obj\Debug\net6.0\TestingHowToUseDJ.AssemblyInfoInputs.cache
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\obj\Debug\net6.0\TestingHowToUseDJ.AssemblyInfo.cs
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\obj\Debug\net6.0\TestingHowToUseDJ.csproj.CoreCompileInputs.cache
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\obj\Debug\net6.0\TestingHowToUseDJ.dll
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\obj\Debug\net6.0\refint\TestingHowToUseDJ.dll
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\obj\Debug\net6.0\TestingHowToUseDJ.pdb
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\obj\Debug\net6.0\TestingHowToUseDJ.genruntimeconfig.cache
+C:\Users\pupa_dupa\RiderProjects\TestingHowToUseDJ\TestingHowToUseDJ\obj\Debug\net6.0\ref\TestingHowToUseDJ.dll

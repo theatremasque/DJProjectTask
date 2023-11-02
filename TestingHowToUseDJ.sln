@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingHowToUseDJ", "TestingHowToUseDJ\TestingHowToUseDJ.csproj", "{CFEDD9AC-00D7-485D-86A3-6E417C67DF72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFEDD9AC-00D7-485D-86A3-6E417C67DF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEDD9AC-00D7-485D-86A3-6E417C67DF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEDD9AC-00D7-485D-86A3-6E417C67DF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEDD9AC-00D7-485D-86A3-6E417C67DF72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
